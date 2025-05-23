@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="refresh" content="1; URL=https://script.google.com/macros/s/AKfycbyuxcnhRJSAJKyWK7Zm4KLy65Iv0WRNFkkgRxTJX0u_xYekA0aKjKVZTi48l4WA5hCi5A/exec">
+  <title>LUANA+ 予約ページへ移動中</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 50px;
+      background-color: #fffaf0;
+      color: #333;
+    }
+    .message {
+      font-size: 18px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>LUANA+ 予約ページへ移動中です</h1>
+  <div class="message">ページが自動で切り替わらない場合は、<br><a href="https://script.google.com/macros/s/AKfycbyuxcnhRJSAJKyWK7Zm4KLy65Iv0WRNFkkgRxTJX0u_xYekA0aKjKVZTi48l4WA5hCi5A/exec">こちらをクリックしてください</a></div>
+</body>
+</html>
+
